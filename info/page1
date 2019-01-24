@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>
+webpage 1
+</title>
+</head>
+<body bgcolor="pink" >
+<div >
+    <h2><b><u> <a href="webpage2.html" title="tools"> PAGE</a> &nbsp <a href="webpage2.html" title="tools">ABOUT </a>  &nbsp <a href="webpage3.html" title="READ">READ</a>&nbsp &nbsp  <a href="webpage3.html" title="HISTORY">VIEW HISTORY</a> </u></b></h2></div>
+<marquee><h1 style="color:white;background-color:purple;font-size:56;font-weight:bold">INTRODUCTION TO SOFTWARE ENGINEERING</h1></marquee>
+<video  width="320" height="200" controls>
+<source src="What is software engineering _ Pluralsight [Wg0s1XCfISs].mp4">
+</video>
+  
+<a href="http://www.youtube.com/"
+title="youtube"><img src="software-engineering-01.png" Width="320px" height="250" border="6px"></right></a>
+
+<p>
+<h1 style="background-color:purple;color:white"> What does Software Engineering mean?</h1>
+<b>Software engineering</b> is the <i>process</i> of <u>analyzing user needs and designing, constructing, and testing</u> end user applications that will satisfy these needs through the use of software programming languages. It is the <emp>application of engineering principles to software development</emp>. In contrast to simple programming, software engineering is used for larger and more complex software systems, which are used as critical systems for businesses and organizations.</p>
+<h1 style="background-color:purple;color:white"> TYPES OF SOFTWARE ENGINEERING</h1>
+<ul type=circle><u><b>Types of Software Engineering Degrees</b></u>
+<li>Online Software Engineering Degrees. ...</li>
+<li>Software Design & Development. ...</li>
+<li>Software Quality Assurance & Testing. ...</li>
+<li>Software Engineering Configuration Management Degrees. ...</li>
+<li>Web, Game, & Mobile Application Development Engineering Degrees. ...</li>
+<li>Information Security Engineering Degrees. ...</li>
+<li>Artificial Intelligence Engineering Degrees.</li>
+</ul>
+
+<table  border=10px>
+<tr>
+ <td>
+ <h1><i><u>CONTENTS</u></i></h1>
+		 <ol type="1">
+		 <li><a href="http://www.wikipedia.com/"
+title="open">steps in creating software</a></li>
+		 <li><a href="http://www.wikipedia.com/"
+title="open">Tools used in creating software</a></li>
+		 <li><a href="http://www.wikipedia.com/"
+title="open">Related pages</a></li>
+		 <li><a href="http://www.udemy.com/"
+title="open">Other websites</a></li>
+		 <li><a href="http://www.wikipedia.com/"
+title="open">Notes</a></li>
+		 </ol>
+		 </td>
+		 </tr>
+		 </table>
+
+<h2>OTHER WEBPAGES OF ASSIGNMENT</h2>
+<ul>
+   <li>
+      <a href="webpage2.html" title="tools"> Different software tools</a>
+    </li>
+   <li>
+ <a href="webpage3.html" title="history"> History of software engineering</a>
+</li>
+</ul>
+<hr size="5" width="70%"/>
+   
+</body> 
+</html>
