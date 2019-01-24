@@ -8,12 +8,12 @@ webpage 1
 <div >
     <h2><b><u> <a href="webpage2.html" title="tools"> PAGE</a> &nbsp <a href="webpage2.html" title="tools">ABOUT </a>  &nbsp <a href="webpage3.html" title="READ">READ</a>&nbsp &nbsp  <a href="webpage3.html" title="HISTORY">VIEW HISTORY</a> </u></b></h2></div>
 <marquee><h1 style="color:white;background-color:purple;font-size:56;font-weight:bold">INTRODUCTION TO SOFTWARE ENGINEERING</h1></marquee>
-<video  width="320" height="200" controls>
+<video  width="200" height="100" controls>
 <source src="What is software engineering _ Pluralsight [Wg0s1XCfISs].mp4">
 </video>
   
 <a href="http://www.youtube.com/"
-title="youtube"><img src="software-engineering-01.png" Width="320px" height="250" border="6px"></right></a>
+title="youtube"><img src="software-engineering-01.png" Width="100px" height="100" border="6px"></right></a>
 
 <p>
 <h1 style="background-color:purple;color:white"> What does Software Engineering mean?</h1>
